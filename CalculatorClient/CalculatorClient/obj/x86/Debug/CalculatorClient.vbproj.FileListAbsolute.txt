@@ -1,0 +1,16 @@
+C:\Users\Pwner\Documents\Fall2013\CompBased\Assignment3\CalculatorClient\CalculatorClient\bin\Debug\CalculatorClient.exe
+C:\Users\Pwner\Documents\Fall2013\CompBased\Assignment3\CalculatorClient\CalculatorClient\bin\Debug\CalculatorClient.pdb
+C:\Users\Pwner\Documents\Fall2013\CompBased\Assignment3\CalculatorClient\CalculatorClient\bin\Debug\CalculatorClient.xml
+C:\Users\Pwner\Documents\Fall2013\CompBased\Assignment3\CalculatorClient\CalculatorClient\bin\Debug\Calculator.dll
+C:\Users\Pwner\Documents\Fall2013\CompBased\Assignment3\CalculatorClient\CalculatorClient\bin\Debug\Calculator.pdb
+C:\Users\Pwner\Documents\Fall2013\CompBased\Assignment3\CalculatorClient\CalculatorClient\obj\x86\Debug\CalculatorClient.vbprojResolveAssemblyReference.cache
+C:\Users\Pwner\Documents\Fall2013\CompBased\Assignment3\CalculatorClient\CalculatorClient\obj\x86\Debug\CalculatorClient.Form1.resources
+C:\Users\Pwner\Documents\Fall2013\CompBased\Assignment3\CalculatorClient\CalculatorClient\obj\x86\Debug\CalculatorClient.Resources.resources
+C:\Users\Pwner\Documents\Fall2013\CompBased\Assignment3\CalculatorClient\CalculatorClient\obj\x86\Debug\CalculatorClient.vbproj.GenerateResource.Cache
+C:\Users\Pwner\Documents\Fall2013\CompBased\Assignment3\CalculatorClient\CalculatorClient\obj\x86\Debug\CalculatorClient.exe
+C:\Users\Pwner\Documents\Fall2013\CompBased\Assignment3\CalculatorClient\CalculatorClient\obj\x86\Debug\CalculatorClient.xml
+C:\Users\Pwner\Documents\Fall2013\CompBased\Assignment3\CalculatorClient\CalculatorClient\obj\x86\Debug\CalculatorClient.pdb
+C:\Users\Pwner\Documents\Fall2013\CompBased\Assignment3\CalculatorClient\CalculatorClient\bin\Debug\CalculatorClient.exe.manifest
+C:\Users\Pwner\Documents\Fall2013\CompBased\Assignment3\CalculatorClient\CalculatorClient\bin\Debug\CalculatorClient.application
+C:\Users\Pwner\Documents\Fall2013\CompBased\Assignment3\CalculatorClient\CalculatorClient\obj\x86\Debug\CalculatorClient.exe.manifest
+C:\Users\Pwner\Documents\Fall2013\CompBased\Assignment3\CalculatorClient\CalculatorClient\obj\x86\Debug\CalculatorClient.application
